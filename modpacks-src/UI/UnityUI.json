@@ -1,0 +1,10 @@
+{
+  "title": "UnityUI",
+  "category": "UI",
+  "game": "*",
+  "description": "Unity's design for UI.",
+  "author": "Unity",
+  "license": null,
+  "source": "https://github.com/FifthWit/Portal2-Modpacks/raw/refs/heads/main/modpacks-src/UI/UnityUI.zip",
+  "version": null
+}

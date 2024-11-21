@@ -1,0 +1,10 @@
+{
+  "title": "Base Pack",
+  "category": "Unknown",
+  "game": "*",
+  "description": "Simple Base Modpack for All Portal 2 Games",
+  "author": null,
+  "license": null,
+  "source": "https://github.com/FifthWit/Portal2-Modpacks/raw/refs/heads/main/modpacks-src/Base%20Pack.zip",
+  "version": "1.0"
+}
